@@ -1,0 +1,4 @@
+/Users/carlsahle/Documents/project/minnespool/build/CMakeFiles/memory_pool.dir
+/Users/carlsahle/Documents/project/minnespool/build/CMakeFiles/benchmark.dir
+/Users/carlsahle/Documents/project/minnespool/build/CMakeFiles/edit_cache.dir
+/Users/carlsahle/Documents/project/minnespool/build/CMakeFiles/rebuild_cache.dir

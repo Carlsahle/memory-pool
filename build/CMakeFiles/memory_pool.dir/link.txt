@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/memory_pool.dir/src/main.cpp.o CMakeFiles/memory_pool.dir/src/memory_pool.cpp.o -o memory_pool
